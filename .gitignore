@@ -31,7 +31,6 @@ findstr_*.txt
 *.txt
 scratch_frames/
 manage_*.cjs
-projectcard.tsx
 .firebase/
 .firebaserc
 firebase.json
